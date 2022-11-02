@@ -1,4 +1,4 @@
-# 🚀 Stanley- Free DDoS Panel 🚀
+# 🚀 Tu- Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 > Username: test<br>
 > Password: test<br>
@@ -7,7 +7,7 @@ The source is not mine, I just made a few additions, the original owner of the s
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
-* [Stanley Info](Stanley-Info)
+* [Tu Info](Tu-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
@@ -16,7 +16,7 @@ The source is not mine, I just made a few additions, the original owner of the s
 It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating Stanley
 
-# Stanley Info
+# Tu Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
